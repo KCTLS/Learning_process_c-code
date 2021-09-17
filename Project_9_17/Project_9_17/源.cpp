@@ -1,0 +1,2 @@
+#define _CRT_SECURE_NO_WARNINGS
+划水一天
